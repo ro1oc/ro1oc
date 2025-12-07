@@ -32,3 +32,4 @@
   - https://sub.zyfx6.xyz/share/file/%E6%B0%B8%E4%B9%85%E8%AE%A2%E9%98%85@txwl666?token=clash
   - https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
   - https://raw.githubusercontent.com/GaoJunjie-2006/sing-box-NODEtest/refs/heads/main/pingable-nodes.txt
+  - https://raw.githubusercontent.com/sinspired/airport/refs/heads/main/subs/merged/merged.yaml
